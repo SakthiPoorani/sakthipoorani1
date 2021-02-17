@@ -1,0 +1,9 @@
+div{
+    height:300px;
+    width:1000px;
+    color:black;
+    background:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqDHwOFilt6iV28zt7w2vWGnYOOu4kX-RCw&usqp=CAU");
+    text-align:center;
+    display: inline-block;
+    margin:-50px
+  }
